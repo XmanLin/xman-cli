@@ -1,0 +1,20 @@
+{
+    "templates": {
+        "xman-manage": {
+            "url": "https://gitee.com/xmanlin/xman-manage.git",
+            "branch": "master"
+        },
+        "xman-web": {
+            "url": "https://gitee.com/xmanlin/xman-web.git",
+            "branch": "master"
+        },
+        "xman-mobile": {
+            "url": "https://gitee.com/xmanlin/xman-mobile.git",
+            "branch": "master"
+        },
+        "xman-npm-dev": {
+            "url": "https://gitee.com/xmanlin/xman-npm-dev.git",
+            "branch": "master"
+        }
+    }
+}
